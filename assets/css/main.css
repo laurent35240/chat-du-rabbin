@@ -2767,6 +2767,7 @@ body.is-preload #wrapper.fade-in:before {
   font-style: italic;
   margin-top: -0.25rem;
   text-align: center;
+  text-shadow: 1px 1px 2px black;
 }
 #intro + #header {
   margin-top: -20rem;
